@@ -1,5 +1,9 @@
 # Welcome to the Reading Circle!
 
+<img src="(https://user-images.githubusercontent.com/76237554/183975802-2897fdbe-6ffd-4b1d-b0ff-98fed210decb.svg" width=25% height=25%>
+
+
+
 <img src="https://user-images.githubusercontent.com/76237554/141107327-7a66001f-eb81-42a7-93f5-cf3632d9ca70.png" width=25% height=25%>
 
 ## Our aims:
